@@ -20,4 +20,3 @@ This project has been implemented by Abdullah Shwaiky during his internship at B
 * [Hands on machine Learning | Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Gradient Descent | Batch, Minibatch, and Stochastic](https://towardsdatascience.com/batch-mini-batch-and-stochastic-gradient-descent-for-linear-regression-9fe4eefa637c)
 * [Normal Equation](https://prutor.ai/normal-equation-in-linear-regression/#:~:text=Normal%20Equation%20is%20an%20analytical,a%20dataset%20with%20small%20features.)
-* [Dev Docs](https://devdocs.io/)

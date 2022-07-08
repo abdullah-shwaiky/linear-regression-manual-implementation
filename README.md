@@ -12,7 +12,7 @@ Further on, check the class documentation for a detailed description of the clas
 
 ## Credits
 
-This project has been implemented by Abdullah Shwaiky during his internship at Baaz Inc. as a Data Science. I would like to thank Mohammad Khaled Danial for his supervision, and the rest of the internship team for being great colleagues during this project.
+This project has been implemented by Abdullah Shwaiky during his internship at Baaz Inc. as a Data Scientist. I would like to thank Mohammad Khaled Danial for his supervision, and the rest of the internship team for being great colleagues during this project.
 
 ## Helpful Links
 
